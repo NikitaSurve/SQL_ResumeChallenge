@@ -1,7 +1,7 @@
 This is a Data Analytics project I have done using SQL as part of Codebasics SQL Project Challenge.
 
 🌟 PROBLEM 🌟
-Atliq Hardware is a leading manufacturer of computer hardware in India and other nations, but it struggles to make prompt and wise choices based on data. The management intends to add more junior data analysts to the data analytics team. Tony Sharma, the head of data analytics, conducts a SQL challenge to identify applicants with both technical and soft skills.
+Atliq Hardware is a leading manufacturer of computer hardware in India and other nations, but it struggles to make prompt and wise choices based on data. The management intends to conducts a SQL challenge to identify applicants with both technical and soft skills.
 
 🌟 TOOLS & APPROACH 🌟
 MySQL, PowerBI, PowerPoint
